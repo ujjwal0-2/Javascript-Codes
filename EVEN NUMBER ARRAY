@@ -1,0 +1,7 @@
+// Even  Number  in Array
+ console.log("Even number in array");
+ let n =[20,2,35,24,37];
+ for(let i=0; i<n.length; i++){
+     If(n[i] %2 ==0)
+     console.log(n[i]);
+ }
